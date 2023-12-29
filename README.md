@@ -1,1 +1,1 @@
-# Latest supported DBD version: 7.3.0
+# Latest supported DBD version: 7.4.2
